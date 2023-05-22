@@ -8,6 +8,6 @@ app.appendChild(heading);
 
 const blurb = html`<p />`;
 blurb.innerText =
-  "Hi, my name is Adam. I am interested in data science and visualization";
+  "Hi, my name is Adam. I am interested in data science, data visualization, and Bayesian statistics";
 
 app.appendChild(blurb);
